@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(230, 215, 191);
+    color:rgb(92, 55, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h1 {
+    text-align: center;
+}
+
+img {
+    height:450px;
+    width:450px;
+}
+
+p {
+    font-style: italic;
+}
